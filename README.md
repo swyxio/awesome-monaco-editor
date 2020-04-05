@@ -2,6 +2,14 @@
 
 Resources and tips and tricks for https://github.com/microsoft/monaco-editor/!
 
+## Example codebases using Monaco
+
+other than VSCode of course
+
+- https://github.com/malcolm-kee/malcolm-kee/blob/master/src/components/typescript-editor.tsx
+- https://github.com/sw-yx/svelte-zen-garden
+
+
 ## Blogposts
 
 - React
