@@ -6,7 +6,7 @@ Resources and tips and tricks for https://github.com/microsoft/monaco-editor/!
 
 other than VSCode of course
 
-- https://github.com/malcolm-kee/malcolm-kee/blob/master/src/components/typescript-editor.tsx
+- https://github.com/malcolm-kee/malcolm-kee/blob/master/src/components/typescript-editor.tsx (used in [https://malcolmkee.com/typescript-for-react-developer/variables#array-and-tuple](https://malcolmkee.com/typescript-for-react-developer/variables#array-and-tuple)
 - https://github.com/sw-yx/svelte-zen-garden
 
 
