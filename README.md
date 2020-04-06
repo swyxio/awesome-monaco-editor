@@ -25,3 +25,5 @@ other than VSCode of course
   - https://www.swyx.io/writing/how-to-add-monaco-editor-to-a-next-js-app-ha3
 - Svelte
   - https://www.swyx.io/writing/svelte-zen-garden/
+- Language Server Protocol
+  - https://blog.codedamn.com/language-server-protocol-with-monaco-editor/
