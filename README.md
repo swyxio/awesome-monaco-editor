@@ -6,6 +6,10 @@ Resources and tips and tricks for https://github.com/microsoft/monaco-editor/!
 
 - Web Component https://github.com/vanillawc/wc-monaco-editor
 - React https://github.com/react-monaco-editor/react-monaco-editor
+- React Native
+  - non Open Source - https://github.com/microsoft/monaco-editor/issues/1365#issue-420813035
+  - VS Code on iPad? - https://github.com/microsoft/vscode/issues/70764
+  - [Corbin Crutchley](https://twitter.com/crutchcorn/status/1247048617816285184)
 
 ## Example codebases using Monaco
 
