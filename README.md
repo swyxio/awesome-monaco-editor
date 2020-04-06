@@ -15,9 +15,10 @@ other than VSCode of course
 - https://github.com/sw-yx/svelte-zen-garden
 - https://github.com/statecharts/xstate-viz/tree/next/src
 - https://github.com/Lamden/wallet
+- https://github.com/eclipse-theia/theia (uses VScode)
 
 
-## Blogposts
+## Helpful Blogposts
 
 - React
   - https://blog.expo.io/building-a-code-editor-with-monaco-f84b3a06deaf
