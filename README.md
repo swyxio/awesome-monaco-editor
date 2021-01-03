@@ -37,3 +37,4 @@ other than VSCode of course
 ## Monaco tips
 
 - add code folding icons https://github.com/sw-yx/svelte-zen-garden/issues/1#issuecomment-614101314
+- automatically load declaration files while typing https://github.com/lukasbach/monaco-editor-auto-typings
