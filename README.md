@@ -1,3 +1,5 @@
+> this list is now archived - look inside https://github.com/sw-yx/brain if you would like an updated list! thank you.
+
 # awesome-monaco-editor
 
 Resources and tips and tricks for https://github.com/microsoft/monaco-editor/!
